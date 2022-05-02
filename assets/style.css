@@ -12,9 +12,14 @@ header h1 {
     position: relative;
 }
 
-
-
-
+.brushes {
+    color: white;
+    background-color: mediumspringgreen;
+}
+.frames {
+    color: white;
+    background-color: lightcoral;;
+}
 .cost {
     color: blue;
 }
