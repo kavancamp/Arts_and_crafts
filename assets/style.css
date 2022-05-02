@@ -3,13 +3,15 @@ header {
     font-weight: bold;
     font-family: Helvetica;
     color: khaki;
-    height: 80px;
+    height: 100px;
     width: 100%;
     display: inline-block;
+    
 }
 header h1 {
+    float: center;
     text-align: center;
-    position: relative;
+    font-size: 45px;
 }
 
 .brushes {
