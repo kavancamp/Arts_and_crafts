@@ -1,3 +1,13 @@
-nav {
+header {
+    background-image: url("./background.jpeg");
+    font-weight: bold;
+    font-family: Helvetica;
+    color: khaki;
+    height: 80px;
+    width: 100%;
+    display: inline-block;
+}
+h1 {
     text-align: center;
+    position: relative;
 }
