@@ -16,10 +16,17 @@ header h1 {
     color: white;
     background-color: mediumspringgreen;
 }
+
 .frames {
     color: white;
     background-color: lightcoral;;
 }
+
+.paint {
+    color: white;
+    background-color: skyblue;
+}
+
 .cost {
     color: blue;
 }
