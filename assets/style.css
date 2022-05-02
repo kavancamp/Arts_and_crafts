@@ -5,9 +5,15 @@ header {
     color: khaki;
     height: 100px;
     width: 100%;
-    display: inline-block;
-    
 }
+
+h1, 
+h2, 
+h3, 
+p {
+  font-family: "Helvetica", sans-serif;
+}
+
 header h1 {
     float: center;
     text-align: center;
